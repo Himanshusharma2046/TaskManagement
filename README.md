@@ -106,14 +106,3 @@ Delete a task by ID.
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-### Notes:
-1. Replace `<your-repo-url>` with your actual repository URL.
-2. Add your actual app screenshot where indicated in the **Screenshot** section.
-
-Now you can directly paste this into your GitHub repository's `README.md`. Let me know if anything needs modification!
