@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://taskmanagement-backend-0rn2.onrender.com'; //backend deployed
+const API_URL = 'https://taskmanagement-backend1-minp.onrender.com'; //backend deployed
 
 export const getTasks = async () => axios.get(API_URL);
 export const addTask = async (title) => axios.post(API_URL, { title });
