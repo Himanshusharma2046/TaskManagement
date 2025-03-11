@@ -86,6 +86,8 @@ Delete a task by ID.
 
 ![Screenshot (176)](https://github.com/user-attachments/assets/917d4975-0764-4078-a5ca-7b3a3f8b4e11)
 ![Screenshot (177)](https://github.com/user-attachments/assets/3e565fa2-32d7-4d51-a614-38756700a368)
+![Screenshot (264)](https://github.com/user-attachments/assets/2575bb04-1be8-4cfd-9f07-fde0ba43b98d)
+
 
 
 
