@@ -79,8 +79,8 @@ Delete a task by ID.
 
 ## Deployment Links
 
-- **Frontend:** [Task Management Frontend](#)
-- **Backend:** [Task Management Backend](#)
+- **Frontend:** [https://cheery-biscotti-6f135d.netlify.app/](#)
+- **Backend:** [https://taskmanagement-backend1-minp.onrender.com](#)
 
 ## Screenshot
 
